@@ -2,7 +2,7 @@
 
 [익스트림 프로그래밍(Extreme Programming)](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788991268104)를 읽고, 정리한 내용들입니다. 
 
-## Chapters
+## chapters
 
 * [01. XP란 무엇인가?](/docs/chapter-01.md)
 * [02. 운전하는 법 배우기](/docs/chapter-02.md)
